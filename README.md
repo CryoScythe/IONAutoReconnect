@@ -1,2 +1,2 @@
 # IONAutoReconnect
-Because way too tired to login ¯\_(ツ)_/¯
+Because way too tired to login ¯\\\_(ツ)\_/¯
